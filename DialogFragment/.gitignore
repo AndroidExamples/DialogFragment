@@ -1,0 +1,41 @@
+/local.properties
+/.idea/workspace.xml
+.DS_Store
+
+# build application files
+*.apk
+*.ap_
+ 
+# dex
+*.dex
+ 
+# class files
+*.class
+ 
+# generated folders
+bin/
+gen/
+out/
+build/
+ 
+# Local config
+local.properties
+ 
+# Eclipse files
+.classpath
+.project
+ 
+# Proguard folder
+proguard/
+ 
+# Intellij files
+*.iml
+*.ipr
+*.iws
+.idea/
+ 
+# workspace
+.idea/workspace.xml
+ 
+# Gradle
+.gradle
