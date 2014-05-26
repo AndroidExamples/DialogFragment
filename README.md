@@ -5,13 +5,13 @@ Sample code for using a DialogFragment.
 
 
 ###It contains following functionalities:
-*Activity-Fragment communication 
+* Activity-Fragment communication 
 
-*Fragment-Activity communication 
+* Fragment-Activity communication 
 
-*Managing orientation change
+* Managing orientation change
 
-*Override onCreateDialog method
+* Override onCreateDialog method
 
 ### TODO
 Need to fix project structure
